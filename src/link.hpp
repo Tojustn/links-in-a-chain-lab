@@ -1,3 +1,4 @@
+#pragma once
 #include <string>
 
 class Link {
@@ -13,3 +14,4 @@ class Link {
       return this->material;
     }
 }
+;
